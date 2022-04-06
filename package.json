@@ -1,7 +1,7 @@
 {
   "name": "tenzies",
   "version": "0.1.0",
-  "homepage": "https://github.com/rutvip98/Tenzies",
+  "homepage": "https://rutvip98.github.io/Tenzies",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
