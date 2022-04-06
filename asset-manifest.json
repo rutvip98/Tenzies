@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/rutvip98/Tenzies/static/css/main.493664b8.css",
-    "main.js": "/rutvip98/Tenzies/static/js/main.a7fed6a9.js",
-    "static/media/logo.svg": "/rutvip98/Tenzies/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/rutvip98/Tenzies/index.html",
-    "main.493664b8.css.map": "/rutvip98/Tenzies/static/css/main.493664b8.css.map",
-    "main.a7fed6a9.js.map": "/rutvip98/Tenzies/static/js/main.a7fed6a9.js.map"
+    "main.css": "/Tenzies/static/css/main.493664b8.css",
+    "main.js": "/Tenzies/static/js/main.fadfc57e.js",
+    "static/media/logo.svg": "/Tenzies/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tenzies/index.html",
+    "main.493664b8.css.map": "/Tenzies/static/css/main.493664b8.css.map",
+    "main.fadfc57e.js.map": "/Tenzies/static/js/main.fadfc57e.js.map"
   },
   "entrypoints": [
     "static/css/main.493664b8.css",
-    "static/js/main.a7fed6a9.js"
+    "static/js/main.fadfc57e.js"
   ]
 }
